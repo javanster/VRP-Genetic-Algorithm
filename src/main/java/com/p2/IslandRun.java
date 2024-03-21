@@ -178,7 +178,7 @@ public class IslandRun {
 
         IslandRun test = new IslandRun();
 
-        test.evolveIslands(3000, 50, "train_9.json", true, false);
+        test.evolveIslands(3000, 50, "problem_instance_9.json", true, false);
 
     }
 

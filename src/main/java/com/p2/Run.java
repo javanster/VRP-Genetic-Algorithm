@@ -73,6 +73,6 @@ public class Run {
     public static void main(String[] args) {
         
         Run run = new Run();
-        run.runGa(5000, "train_9.json", false);
+        run.runGa(5000, "problem_instance_9.json", false);
     }
 }

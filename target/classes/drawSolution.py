@@ -46,4 +46,4 @@ def drawMap(instanceName):
     plt.show()
 
 
-drawMap("train_0")
+drawMap("problem_instance_0")
