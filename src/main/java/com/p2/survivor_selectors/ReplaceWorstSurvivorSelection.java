@@ -29,10 +29,5 @@ public class ReplaceWorstSurvivorSelection implements SurvivorSelector {
         bestIndividuals.addAll(offspring);
         return new Population(bestIndividuals);
     }
-
-    @Override
-    public String toString() {
-        return "ReplaceWorstSurvivorSelection";
-    }
     
 }

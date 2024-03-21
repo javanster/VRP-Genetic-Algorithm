@@ -39,8 +39,4 @@ public class TournamentParentSelector implements ParentSelector {
         return new Population(selectedParents);
     }
 
-    @Override
-    public String toString() {
-        return "TournamentParentSelector";
-    }
 }

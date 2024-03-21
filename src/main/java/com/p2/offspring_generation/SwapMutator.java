@@ -36,9 +36,5 @@ public class SwapMutator implements MutationHandler {
         return child;
     }
 
-    @Override
-    public String toString() {
-        return "SwapMutator";
-    }
     
 }
