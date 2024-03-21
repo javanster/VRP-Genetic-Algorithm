@@ -1,4 +1,4 @@
-## Finding a good solution to a Home-Care Vehicle Routing Problem using a Genetic Algorithm
+## Using Genetic Algorithms for finding near optimal solutions to a Home-Care Vehicle Routing Problem
 
 IT3708 NTNU - Spring 2024 - Jarl Sterkenburg
 
